@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Kasra Amani 👋
 
-<!--
-**iTskAsra/iTskAsra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergrad student studying Computer Engineering at Sharif University of Technology. Passionate about technology, coding, and always eager to learn new things.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+- **Programming Languages**: C, C++, Python, Java, Assembly, Bash, PHP, Latex
+- **Tech and Tools**: Linux, Windows, Git, Intellij tools, Shell
+- **Languages**: English (Fluent), Persian (Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kasra's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskasra&show_icons=true&theme=radical)
+
+## 📌 Highlighted Projects
+- [Advanced Programming](#) - Online shopping tool with an intuitive UI.
+- [Embedded Systems](#) - Smart water container with proximity and water level sensors.
+- [Computer Simulations](#) - Discrete event simulator for CPU task scheduling.
+(Add links to the repositories of these projects)
+
+## 📫 How to reach me:
+- 🌐 [Website](www.kasraamani.me)
+- 📧 kasraamani2001@gmail.com
+- 🐦 [Twitter](https://twitter.com/your_twitter_username)
+- 💼 [LinkedIn](https://linkedin.com/in/jameswgrant)
+
