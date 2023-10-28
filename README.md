@@ -10,7 +10,7 @@ I'm an undergrad student studying Computer Engineering at Sharif University of T
 ![Kasra's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskasra&show_icons=true&theme=radical)
 
 ## 📌 Highlighted Projects
-- [Advanced Programming](#) - Online shopping tool with an intuitive UI.
+- [Advanced Programming](#google.com) - Online shopping tool with an intuitive UI.
 - [Embedded Systems](#) - Smart water container with proximity and water level sensors.
 - [Computer Simulations](#) - Discrete event simulator for CPU task scheduling.
 (Add links to the repositories of these projects)
