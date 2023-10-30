@@ -19,6 +19,5 @@ I'm an undergrad student studying Computer Engineering at Sharif University of T
 - 🌐 [Website](https://www.kasraamani.me)
 - 📧 kasraamani2001@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/kasra-amani-99b91b196/)
-- 🐦 [Twitter](https://twitter.com/your_twitter_username)
 
 
